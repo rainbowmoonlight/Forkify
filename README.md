@@ -15,4 +15,3 @@ React to run the project:
 2. Run npm install
 3. Run npm start
 
-For working app Try [Forkify App](https://forkifyapp.netlify.com/)
