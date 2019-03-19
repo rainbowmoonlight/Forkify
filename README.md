@@ -1,8 +1,8 @@
 # forkify-babel-config
 Forkify is Recipe Searching App created with Javascript, configured webpack and babel.
 
-###Features
-Seaching 1,000,000 recipes,
+#### Features
+Searching 1,000,000 recipes,
 Save favorite recipes by clicking heart button in the upper right,
 Update the recipes count,
 Update the shopping list.
